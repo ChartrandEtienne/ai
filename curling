@@ -1,0 +1,1 @@
+curl --data "input=is this working all right?&who=etienne" http://localhost:8000/

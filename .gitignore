@@ -1,0 +1,27 @@
+# Created by https://www.gitignore.io
+
+### vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+*.swp
+*.swo
+
+
+### Haskell ###
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virtualenv
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.config
+
+db.sql
